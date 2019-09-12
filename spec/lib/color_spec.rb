@@ -1,4 +1,4 @@
-require "administrate/field/color"
+require "color"
 
 describe Administrate::Field::Color do
   describe "#to_partial_path" do
